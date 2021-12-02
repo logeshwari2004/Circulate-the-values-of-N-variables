@@ -26,6 +26,6 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![output](./EX02OUTPUT.PNG)
+![output](./EX02OUTPUT.Png)
 
 ## Result:
